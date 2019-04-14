@@ -1,0 +1,13 @@
+(?sm)name:\s\'Tmax\'\n\s\s\s\s\s\s\s\s\s\s\s\sdata:\s\[.*\].*
+
+
+34 Matches
+(?sm)\[.*?\]
+
+5 Matches
+(?sm)data:\s\[.*?\]
+
+
+1 Match
+(?sm)name:\s\'Tmax\'.*?\s\s\s\s\s\s\s\s\s\s\s\s\sdata:\s\[.*?\]
+

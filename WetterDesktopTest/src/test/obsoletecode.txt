@@ -1,0 +1,6 @@
+		Pattern TMaxRX = "Tmax\\',\\n            data: \\[(.*?)\\]";
+		Matcher treffer = TMaxRX.matcher(pageSource);
+		
+		if(pageSource.find())  {
+			//String 
+		}
